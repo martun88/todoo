@@ -1,4 +1,5 @@
-# Simple Todoo (VueJs + Rest API)
+# Simple Todoo 
+### Create using VueJS + [Json Placeholder](https://jsonplaceholder.typicode.com "Json Placeholder") 
 
 ## Project setup
 ```
